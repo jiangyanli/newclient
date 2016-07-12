@@ -21,6 +21,9 @@ public class MainActivity extends SlidingFragmentActivity {
 //        设置SlidingMenu的属性
 
 
+
+
+
         SlidingMenu slidingMenu = getSlidingMenu();
 //        分割线
         slidingMenu.setShadowDrawable(R.drawable.shadow);
